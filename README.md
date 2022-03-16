@@ -1,7 +1,7 @@
 # Recipes Project with Ruby on Rails Project and a React Frontend
 
 In this project, I created a Ruby on Rails application that stores 
-your favorite recipes then displays them with a React frontend. User can create, view, and delete recipes using a React interface styled with Bootstrap.
+your favorite recipes then displays them with a React frontend. User can create, view, and delete recipes from its profile. It is created with React and user interface is styled with Bootstrap.
 
 ## Milestones of the project.
 
